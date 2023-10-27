@@ -1,0 +1,33 @@
+---
+title: "Looking at the main anthropogenic causes of extinction based on the IUCN Red List"
+author: "Beñat Yañez"
+date: "25/09/2023"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+***
+
+## Goals for this practical
+
+* #### Download data for extinct that went extinct due to anthropogenic change
+* #### Combine the data and ensure species that went extinct from several factors only appear once but with the causes identified.
+* #### Visualize which is the most common reason for extinction in general and for specific classes
+
+***
+
+Data obtained from <https://www.iucnredlist.org/search>.
+
+***
+
+The threats analysed are:
+
+- Invasion
+- Pollution
+- Climate Change
+- Over exploitation
+
+***

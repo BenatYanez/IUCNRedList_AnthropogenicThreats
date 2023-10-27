@@ -1,0 +1,40 @@
+internalTaxonId,scientificName,kingdomName,phylumName,className,orderName,familyName,genusName,speciesName,infraType,infraName,infraAuthority,subpopulationName,authority,taxonomicNotes
+191696,Allotoca goslinei,ANIMALIA,CHORDATA,ACTINOPTERYGII,CYPRINODONTIFORMES,GOODEIDAE,Allotoca,goslinei,,,,,"Smith &amp; Miller, 1987","The Holotype of this species was collected together with Paratopotypes by Robert Miller and others in February 1976 from the Río (Potrero) Grande, about 9.6km W of the town of Ameca. Several Paratypes go back to collections from the type location in 1957 and 1971, one single male to a collection of R. Vrijenhoek and M. Douglas from a bridge over the Río Ameca (precisely: Río Cuisillos), 1km E of the estación Pacana, SE of the Presa La Vega, in 1981. No subpopulations are distinguished."
+199495,Margatteoidea amoena,ANIMALIA,ARTHROPODA,INSECTA,BLATTODEA,BLATTELLIDAE,Margatteoidea,amoena,,,,,"(Bolivar, 1924)",
+201484,Orthomorpha crinita,ANIMALIA,ARTHROPODA,DIPLOPODA,POLYDESMIDA,PARADOXOSOMATIDAE,Orthomorpha,crinita,,,,,"Attems, 1900",
+184524,Pseudamnicola desertorum,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,HYDROBIIDAE,Pseudamnicola,desertorum,,,,,"(Bourguignat, 1862)",The generic status is uncertain due to lack of anatomical data. The taxonomy of the hydrobiids of Algeria has not been revised since 1864.
+40091,Pachnodus velutinus,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,CERASTIDAE,Pachnodus,velutinus,,,,,"(Pfeiffer, 1841)",
+41027,Graecoanatolica macedonica,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,HYDROBIIDAE,Graecoanatolica,macedonica,,,,,"Radoman &amp; Stanovic, 1978",
+61394,Telestes ukliva,ANIMALIA,CHORDATA,ACTINOPTERYGII,CYPRINIFORMES,LEUCISCIDAE,Telestes,ukliva,,,,,"(Heckel, 1843)",
+61365,Tristramella magdelainae,ANIMALIA,CHORDATA,ACTINOPTERYGII,PERCIFORMES,CICHLIDAE,Tristramella,magdelainae,,,,,"(Lortet, 1883)",
+5438,Cottus echinatus,ANIMALIA,CHORDATA,ACTINOPTERYGII,SCORPAENIFORMES,COTTIDAE,Cottus,echinatus,,,,,"Bailey &amp; Bond, 1963",
+22147,Trigonoscuta rossi,ANIMALIA,ARTHROPODA,INSECTA,COLEOPTERA,CURCULIONIDAE,Trigonoscuta,rossi,,,,,"Pierce, 1975",
+9003,Geocapromys thoracatus,ANIMALIA,CHORDATA,MAMMALIA,RODENTIA,CAPROMYIDAE,Geocapromys,thoracatus,,,,,"(True, 1888)",Was previously considered a subspecies of <em>Geocapromys brownii</em>.
+10168,Hippotragus leucophaeus,ANIMALIA,CHORDATA,MAMMALIA,CETARTIODACTYLA,BOVIDAE,Hippotragus,leucophaeus,,,,,"(Pallas, 1766)",
+3172,Incilius periglenes,ANIMALIA,CHORDATA,AMPHIBIA,ANURA,BUFONIDAE,Incilius,periglenes,,,,,"(Savage, 1967)",
+54549,Atelopus senex,ANIMALIA,CHORDATA,AMPHIBIA,ANURA,BUFONIDAE,Atelopus,senex,,,,,"Taylor, 1952",
+56413,Craugastor anciano,ANIMALIA,CHORDATA,AMPHIBIA,ANURA,CRAUGASTORIDAE,Craugastor,anciano,,,,,"(Savage, McCranie &amp; Wilson, 1988)",This species was previously included in the genus <em>Eleutherodactylus</em> (Crawford and Smith 2005).
+56810,Craugastor omoaensis,ANIMALIA,CHORDATA,AMPHIBIA,ANURA,CRAUGASTORIDAE,Craugastor,omoaensis,,,,,"(McCranie &amp; Wilson, 1997)",This species was previously included in the genus <em>Eleutherodactylus</em> (Crawford and Smith 2005).
+34039,Delissea niihauensis,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,ASTERALES,CAMPANULACEAE,Delissea,niihauensis,,,,,H.St.John,
+82337482,Dusicyon avus,ANIMALIA,CHORDATA,MAMMALIA,CARNIVORA,CANIDAE,Dusicyon,avus,,,,,"(Burmeister, 1866)","This species is the sister taxon of the also extinct, but insular, Falklands Wolf (<em>Dusicyon australis</em>)."
+44094,Cyanea dolichopoda,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,ASTERALES,CAMPANULACEAE,Cyanea,dolichopoda,,,,,Lammers &amp; Lorence,
+22685156,Psephotellus pulcherrimus,ANIMALIA,CHORDATA,AVES,PSITTACIFORMES,PSITTACIDAE,Psephotellus,pulcherrimus,,,,,"(Gould, 1845)",<em>Psephotellus pulcherrimus</em> (del Hoyo and Collar 2014) was previously placed in the genus <em>Psephotus</em>.
+22692447,Hypotaenidia wakensis,ANIMALIA,CHORDATA,AVES,GRUIFORMES,RALLIDAE,Hypotaenidia,wakensis,,,,,"Rothschild, 1903",<em>Hypotaenidia wakensis</em>&#160;(del Hoyo and Collar 2014)&#160;was previously placed in the genus&#160;<em>Gallirallus</em>. Monotypic.
+22692672,Zapornia palmeri,ANIMALIA,CHORDATA,AVES,GRUIFORMES,RALLIDAE,Zapornia,palmeri,,,,,"(Frohawk, 1892)",<em>Zapornia palmeri</em>&#160;(del Hoyo and Collar 2014)&#160;was previously placed in the genus <em>Porzana</em>.
+22704323,Moho braccatus,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,MOHOIDAE,Moho,braccatus,,,,,"(Cassin, 1855)",
+22708559,Myadestes myadestinus,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,TURDIDAE,Myadestes,myadestinus,,,,,"(Stejneger, 1887)",
+22710840,Fregilupus varius,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,STURNIDAE,Fregilupus,varius,,,,,"(Boddaert, 1783)",
+96986314,Bradycellus chavesi,ANIMALIA,ARTHROPODA,INSECTA,COLEOPTERA,CARABIDAE,Bradycellus,chavesi,,,,,"Alluaud, 1919",
+97161884,Neocnemis occidentalis,ANIMALIA,ARTHROPODA,INSECTA,COLEOPTERA,CURCULIONIDAE,Neocnemis,occidentalis,,,,,"Crotch, 1867",
+78777637,Cyanea sessilifolia,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,ASTERALES,CAMPANULACEAE,Cyanea,sessilifolia,,,,,(O.Deg.) Lammers,
+54583,Anaxyrus baxteri,ANIMALIA,CHORDATA,AMPHIBIA,ANURA,BUFONIDAE,Anaxyrus,baxteri,,,,,"(Porter, 1964)",
+103823212,Akialoa ellisiana,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,FRINGILLIDAE,Akialoa,ellisiana,,,,,(Gray 1860),"<p><em>Akialoa ellisiana</em>,<em> A. stejnegeri </em>and<em> A. lanaiensis</em> (del Hoyo and Collar 2016) were previously placed in the genus <em>Hemignathus </em>and lumped as<em> H. ellisianus </em>following AOU (1998 and supplements).</p>"
+103823431,Akialoa lanaiensis,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,FRINGILLIDAE,Akialoa,lanaiensis,,,,,"(Rothschild, 1893)","<p><em>Akialoa ellisiana</em>,<em> A. stejnegeri </em>and<em> A. lanaiensis</em> (del Hoyo and Collar 2016) were previously placed in the genus <em>Hemignathus </em>and lumped as<em> H. ellisianus </em>following AOU (1998 and supplements).</p>  <p>&#160;</p>"
+103823250,Akialoa stejnegeri,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,FRINGILLIDAE,Akialoa,stejnegeri,,,,,"(Wilson, 1889)","<p><em>Akialoa ellisiana</em>,<em> A. stejnegeri </em>and<em> A. lanaiensis</em> (del Hoyo and Collar 2016) were previously placed in the genus <em>Hemignathus </em>and lumped as<em> H. ellisianus </em>following AOU (1998 and supplements).</p>"
+126612397,Deppea splendens,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,GENTIANALES,RUBIACEAE,Deppea,splendens,,,,,Breedlove &amp; Lorence,
+126612753,Faramea chiapensis,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,GENTIANALES,RUBIACEAE,Faramea,chiapensis,,,,,Borhidi,
+140416589,Eriocaulon inundatum,PLANTAE,TRACHEOPHYTA,LILIOPSIDA,POALES,ERIOCAULACEAE,Eriocaulon,inundatum,,,,,Moldenke,
+164111324,Dombeya rodriguesiana,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,MALVALES,MALVACEAE,Dombeya,rodriguesiana,,,,,F.Friedmann,
+13132,Melomys rubicola,ANIMALIA,CHORDATA,MAMMALIA,RODENTIA,MURIDAE,Melomys,rubicola,,,,,"Thomas, 1924",
+216881863,Govenia floridana,PLANTAE,TRACHEOPHYTA,LILIOPSIDA,ASPARAGALES,ORCHIDACEAE,Govenia,floridana,,,,,P.M.Br.,"<p><em>Govenia floridana</em> was initially identified as the more widespread tropical species <em>Govenia utriculata </em>when discovered in 1957. However, the Florida population differs from <em>G. utriculata</em> in that the sheaths are not inflated, it is nearly polygonal in cross section, the column is prominently winged, and the petals are spotted (Greenwood 1991). Based on these differences, <em>Govenia floridana</em> was established as a distinct species by Brown (2000).</p>"
+13152363,Chioninia coctei,ANIMALIA,CHORDATA,REPTILIA,SQUAMATA,SCINCIDAE,Chioninia,coctei,,,,,"(Duméril &amp; Bibron, 1839)",
